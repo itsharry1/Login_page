@@ -183,7 +183,7 @@ a.forgot {
     grid-template-areas: "login ";
   }
   .login {
-    height: 100vh;
+    height: 90vh;
   }
   .design {
     display: block;
