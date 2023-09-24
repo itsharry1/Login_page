@@ -147,6 +147,7 @@ a.forgot {
   align-items: center;
   position: absolute;
   bottom: 30px;
+  margin-bottom: 12vh;
 }
 
 .create i {
